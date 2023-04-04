@@ -5,7 +5,7 @@ All these 3 folders are necessary with some minor fixing/setting up of OpenXR in
 
 
 Our team:
-Ali Al-Behadili
+Ali Al-Behadili \n
 Khalid Maarouf
 Anas Abu Mahfoud
 Abdulqader Arafat
