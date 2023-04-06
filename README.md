@@ -2,7 +2,7 @@
 This is our first complete MRTK project, and it was the HomeDesign project.
 
 
-<h1> How to run </h1>
+<h2> How to run </h2>
 
 Assets and ProjectSettings folders are necessary
 
