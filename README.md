@@ -22,6 +22,9 @@ This is our first complete MRTK project, and it was the HomeDesign project.
 
 The Packages folder contains the files added by the Mixed Reality Feature Tool, and so it may save time to just use that folder in addition to the other 2, with some minor fixing/setting up of OpenXR in the unity project to match the correct project settings to preview the scene correctly.
 
+Useful source for configurating the project settings: 
+https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-project
+
 
 
 <h2> Credits </h2>
