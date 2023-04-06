@@ -1,6 +1,11 @@
 # HomeDesign
 This is our first complete MRTK project, and it was the HomeDesign project.
 
+
+<h1> How to run <h1>
+
+Assets and ProjectSettings folders are necessary
+
 All these 3 folders are necessary with some minor fixing/setting up of OpenXR in the unity project to match the correct project settings to preview the scene correctly.
 
 
