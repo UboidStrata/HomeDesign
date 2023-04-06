@@ -1,8 +1,8 @@
 # HomeDesign
 This is our first complete MRTK project, and it was the HomeDesign project.
 
-<br />
-<br />
+  
+  
 
 
 <h2> How to run </h2>
@@ -24,7 +24,7 @@ Useful source for configurating the project settings:
 https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-project
 
 
-<br />
+  
 
 <h2> Credits </h2>
 
