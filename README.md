@@ -7,7 +7,7 @@ This is our first complete MRTK project, and it was the HomeDesign project.
 
 
 1) Download Assets and ProjectSettings folders, they both are necessary.*
-2) Extract them and place them in a folder, that folder will become your project folder
+2) Place them in a folder, that folder will become your project folder
 3) Apply Mixed Reality Feature Tool on that project folder
 4) Open Unity Hub, press open, and select that new to-be project folder
 5) Go through the necessary settings for OpenXR and specifically HoloLens2 configurations.
