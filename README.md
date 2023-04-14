@@ -23,7 +23,7 @@ https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overvie
 
 <h2> Credits </h2>
 
-Our team:  
+Our team, Learning Lens:  
 Ali Asaad Al-Behadili - 100061151@ku.ac.ae  
 Khaled Amar Marouf - 100059293@ku.ac.ae  
 Anas Abu Mahfoud - 100061449@ku.ac.ae  
